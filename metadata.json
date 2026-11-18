@@ -1,0 +1,6 @@
+{
+  "name": "BiblioComunidade - Acervo e Vitrine de Consulta",
+  "description": "Sistema completo para Biblioteca Comunitária Física com vitrine pública de consulta de livros, gôndolas temáticas, controle de disponibilidade, gestão presencial de empréstimos e painel administrativo com níveis de acesso e conformidade com a LGPD.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
